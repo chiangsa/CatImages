@@ -39,7 +39,7 @@ GIF created with ScreenToGif
 ## Notes
 
 Describe any challenges encountered while building the app.
-Had issues retrieving breed information.
+* Had issues retrieving breed information.
 
 ## License
 
